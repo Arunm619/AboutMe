@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name" translatable="false">About Me</string>
+    <string name="myname">Arun sudharsan</string>
+    <string name="yellow_star">yellow star</string>
+    <string name="biostring">
+
+        Android Developer. \n Geek.\n Foodie.\n Night owl.\n Programmer.\n Not in that order.\n
+        \n I like to develop android applications and\n my favorite language is c++\n
+
+        "It\'s not who I am underneath But what I do that defines me"\n
+        - Batman\n
+        About myself:\n
+        I am a Chennaite.\n
+        I did my schooling in Sitadevi Garodia Hindu vidyalaya.\n
+        I am currently pursuing Bachelor\'s Degree in Computer Science and Engineering at SRM Easwari engineering college.\n
+        I love Coding. Programmer.\n
+        Music is life.\n
+        21.\n
+        Single.\n
+        I like watching TV series and I have spent a lot of time on it.\n
+        #F.R.I.E.N.D.S. #Game Of Thrones #Breaking Bad\n
+        ​
+
+    </string>
+    <string name="enter_your_nickname">Enter your nickname</string>
+    <string name="done">Done</string>
+    <string name="cooltext">Enter something cool</string>
+</resources>
